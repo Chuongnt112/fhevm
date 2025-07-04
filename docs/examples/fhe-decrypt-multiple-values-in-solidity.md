@@ -6,8 +6,12 @@ To run this example correctly, make sure the files are placed in the following d
 - `.sol` file → `<your-project-root-dir>/contracts/`
 - `.ts` file → `<your-project-root-dir>/test/`
 
+  
+
 This ensures Hardhat can compile and test your contracts as expected.
 {% endhint %}
+
+
 
 {% tabs %}
 
