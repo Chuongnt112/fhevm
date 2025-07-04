@@ -15,7 +15,10 @@ This ensures Hardhat can compile and test your contracts as expected.
 
 {% tab title="counter.sol" %}
 
+
 ```solidity
+
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
