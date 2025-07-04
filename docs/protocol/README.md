@@ -12,6 +12,8 @@ layout:
     visible: false
 ---
 
+
+
 # Welcome
 
 **Welcome to the Zama Confidential Blockchain Protocol Docs.**\
