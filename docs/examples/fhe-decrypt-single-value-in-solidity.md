@@ -17,6 +17,8 @@ This ensures Hardhat can compile and test your contracts as expected.
 // SPDX-License-Identifier: BSD-3-Clause-Clear
 pragma solidity ^0.8.24;
 
+
+
 import { FHE, euint32 } from "@fhevm/solidity/lib/FHE.sol";
 import { SepoliaConfig } from "@fhevm/solidity/config/ZamaConfig.sol";
 
