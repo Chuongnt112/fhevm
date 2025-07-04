@@ -13,6 +13,7 @@ import pathlib
 import sys
 
 ONE_HOUR_IN_SECONDS = 3600
+
 ONE_SECOND_IN_NANOSECONDS = 1e9
 
 parser = argparse.ArgumentParser()
@@ -58,6 +59,7 @@ parser.add_argument(
     default="",
     help="Suffix to append to each of the result test names",
 )
+
 parser.add_argument(
     "--append-results",
     dest="append_results",
